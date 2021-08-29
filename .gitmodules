@@ -1,0 +1,15 @@
+[submodule "external/Catch2"]
+	path = external/Catch2
+	url = https://github.com/catchorg/Catch2.git	
+[submodule "external/cxxopts"]
+	path = external/cxxopts
+	url = https://github.com/jarro2783/cxxopts.git
+[submodule "external/linalg"]
+	path = external/linalg
+	url = https://github.com/sgorsten/linalg.git
+[submodule "external/loguru"]
+	path = external/loguru
+	url = https://github.com/emilk/loguru.git
+[submodule "external/Celero"]
+	path = external/Celero
+	url = https://github.com/DigitalInBlue/Celero.git
