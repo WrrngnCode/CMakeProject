@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\CommandLineArguments_benchmarks.dir/objects.a
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe qc CMakeFiles\CommandLineArguments_benchmarks.dir/objects.a @CMakeFiles\CommandLineArguments_benchmarks.dir\objects1.rsp
-c:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\CommandLineArguments_benchmarks.dir/objects.a -Wl,--no-whole-archive -o CommandLineArguments_benchmarks.exe -Wl,--out-implib,libCommandLineArguments_benchmarks.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CommandLineArguments_benchmarks.dir\linklibs.rsp

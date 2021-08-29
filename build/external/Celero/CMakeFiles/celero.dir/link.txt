@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\celero.dir/objects.a
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe qc CMakeFiles\celero.dir/objects.a @CMakeFiles\celero.dir\objects1.rsp
-c:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE -O3 -DNDEBUG -shared -o ..\..\libcelero.dll -Wl,--out-implib,libcelero.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\celero.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\celero.dir\linklibs.rsp
