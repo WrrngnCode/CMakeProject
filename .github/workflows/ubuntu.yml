@@ -1,0 +1,33 @@
+name: Ubuntu CI Test
+
+on: 
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repository and submodules
+      uses: actions/checkout@v2
+      with: 
+        submodules: recursive
+    - name: prepare
+      run: |
+        make prepare
+    - name: configure
+      run: |
+        cmake -S . -B build
+    - name: build
+      run: |
+        cmake --build build --config Debug -j4
+    - name: test
+      run: |
+        cd build
+        ctest --build-config Debug
+      
+
+      
+
