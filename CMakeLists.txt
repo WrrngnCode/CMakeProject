@@ -58,7 +58,7 @@ endif()
 # Add benchmarks
 if(ENABLE_BENCHMARKS)
     add_subdirectory("${PROJECT_SOURCE_DIR}/benchmarks/")
-    add_subdirectory("${PROJECT_SOURCE_DIR}/external/celero")
+    add_subdirectory("${PROJECT_SOURCE_DIR}/external/Celero")
 endif()
 
 
