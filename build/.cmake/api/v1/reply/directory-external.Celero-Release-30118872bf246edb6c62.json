@@ -1,0 +1,98 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"external/Celero/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 213,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 220,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 223,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "C:/Program Files (x86)/CommandLineArguments_Project/lib",
+			"paths" : 
+			[
+				"external/Celero/libcelero.dll.a"
+			],
+			"targetId" : "celero::@50d1aa0b74788a901545",
+			"targetIndex" : 34,
+			"targetIsImportLibrary" : true,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "C:/Program Files (x86)/CommandLineArguments_Project/bin",
+			"paths" : 
+			[
+				"libcelero.dll"
+			],
+			"targetId" : "celero::@50d1aa0b74788a901545",
+			"targetIndex" : 34,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "C:/Program Files (x86)/CommandLineArguments_Project",
+			"paths" : 
+			[
+				"external/Celero/include"
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "C:/Program Files (x86)/CommandLineArguments_Project/share",
+			"exportName" : "celero-target",
+			"exportTargets" : 
+			[
+				{
+					"id" : "celero::@50d1aa0b74788a901545",
+					"index" : 34
+				}
+			],
+			"paths" : 
+			[
+				"external/Celero/CMakeFiles/Export/C_/Program_Files_(x86)/CommandLineArguments_Project/share/celero-target.cmake"
+			],
+			"type" : "export"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "external/Celero",
+		"source" : "external/Celero"
+	}
+}

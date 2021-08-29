@@ -1,0 +1,462 @@
+[
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/loguru.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -o CMakeFiles\\loguru.dir\\loguru\\loguru.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\loguru\\loguru.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/loguru/loguru.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/CommandLineArguments_MyLib.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -o CMakeFiles\\CommandLineArguments_MyLib.dir\\my_lib.cc.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\src\\my_lib.cc",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/src/my_lib.cc"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/app",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/CommandLineArguments_Executable.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -o CMakeFiles\\CommandLineArguments_Executable.dir\\main.cc.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\app\\main.cc",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/app/main.cc"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_automake.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\reporters\\catch_reporter_automake.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/reporters/catch_reporter_automake.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_combined_tu.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\reporters\\catch_reporter_combined_tu.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/reporters/catch_reporter_combined_tu.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_compact.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\reporters\\catch_reporter_compact.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/reporters/catch_reporter_compact.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_console.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\reporters\\catch_reporter_console.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/reporters/catch_reporter_console.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_cumulative_base.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\reporters\\catch_reporter_cumulative_base.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/reporters/catch_reporter_cumulative_base.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_junit.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\reporters\\catch_reporter_junit.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/reporters/catch_reporter_junit.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_listening.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\reporters\\catch_reporter_listening.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/reporters/catch_reporter_listening.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_sonarqube.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\reporters\\catch_reporter_sonarqube.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/reporters/catch_reporter_sonarqube.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_streaming_base.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\reporters\\catch_reporter_streaming_base.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/reporters/catch_reporter_streaming_base.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_tap.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\reporters\\catch_reporter_tap.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/reporters/catch_reporter_tap.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_teamcity.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\reporters\\catch_reporter_teamcity.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/reporters/catch_reporter_teamcity.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_xml.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\reporters\\catch_reporter_xml.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/reporters/catch_reporter_xml.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\catch_approx.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\catch_approx.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/catch_approx.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_assertion_handler.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\internal\\catch_assertion_handler.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/internal/catch_assertion_handler.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\catch_assertion_result.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\catch_assertion_result.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/catch_assertion_result.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\matchers\\internal\\catch_matchers_combined_tu.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\matchers\\internal\\catch_matchers_combined_tu.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/matchers/internal/catch_matchers_combined_tu.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_clara.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\internal\\catch_clara.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/internal/catch_clara.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_commandline.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\internal\\catch_commandline.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/internal/catch_commandline.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_source_line_info.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\internal\\catch_source_line_info.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/internal/catch_source_line_info.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\catch_config.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\catch_config.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/catch_config.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_console_colour.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\internal\\catch_console_colour.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/internal/catch_console_colour.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_context.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\internal\\catch_context.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/internal/catch_context.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_debug_console.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\internal\\catch_debug_console.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/internal/catch_debug_console.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_debugger.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\internal\\catch_debugger.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/internal/catch_debugger.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_enforce.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\internal\\catch_enforce.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/internal/catch_enforce.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_enum_values_registry.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\internal\\catch_enum_values_registry.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/internal/catch_enum_values_registry.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_exception_translator_registry.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\internal\\catch_exception_translator_registry.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/internal/catch_exception_translator_registry.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_fatal_condition_handler.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\internal\\catch_fatal_condition_handler.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/internal/catch_fatal_condition_handler.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_floating_point_helpers.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\internal\\catch_floating_point_helpers.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/internal/catch_floating_point_helpers.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\generators\\internal\\catch_generators_combined_tu.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\generators\\internal\\catch_generators_combined_tu.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/generators/internal/catch_generators_combined_tu.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\interfaces\\catch_interfaces_combined_tu.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\interfaces\\catch_interfaces_combined_tu.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/interfaces/catch_interfaces_combined_tu.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\interfaces\\catch_interfaces_reporter.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\interfaces\\catch_interfaces_reporter.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/interfaces/catch_interfaces_reporter.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_list.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\internal\\catch_list.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/internal/catch_list.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\matchers\\catch_matchers_floating_point.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\matchers\\catch_matchers_floating_point.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/matchers/catch_matchers_floating_point.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\matchers\\catch_matchers_string.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\matchers\\catch_matchers_string.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/matchers/catch_matchers_string.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\matchers\\catch_matchers_templated.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\matchers\\catch_matchers_templated.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/matchers/catch_matchers_templated.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\catch_message.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\catch_message.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/catch_message.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_output_redirect.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\internal\\catch_output_redirect.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/internal/catch_output_redirect.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\catch_registry_hub.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\catch_registry_hub.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/catch_registry_hub.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_combined_tu.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\internal\\catch_combined_tu.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/internal/catch_combined_tu.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_random_number_generator.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\internal\\catch_random_number_generator.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/internal/catch_random_number_generator.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_reporter_registry.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\internal\\catch_reporter_registry.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/internal/catch_reporter_registry.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_result_type.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\internal\\catch_result_type.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/internal/catch_result_type.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_run_context.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\internal\\catch_run_context.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/internal/catch_run_context.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_section.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\internal\\catch_section.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/internal/catch_section.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\catch_session.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\catch_session.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/catch_session.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_singletons.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\internal\\catch_singletons.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/internal/catch_singletons.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_stream.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\internal\\catch_stream.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/internal/catch_stream.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_stringref.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\internal\\catch_stringref.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/internal/catch_stringref.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_string_manip.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\internal\\catch_string_manip.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/internal/catch_string_manip.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_tag_alias_registry.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\internal\\catch_tag_alias_registry.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/internal/catch_tag_alias_registry.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\catch_test_case_info.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\catch_test_case_info.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/catch_test_case_info.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_test_case_registry_impl.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\internal\\catch_test_case_registry_impl.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/internal/catch_test_case_registry_impl.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_test_case_tracker.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\internal\\catch_test_case_tracker.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/internal/catch_test_case_tracker.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_test_registry.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\internal\\catch_test_registry.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/internal/catch_test_registry.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_textflow.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\internal\\catch_textflow.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/internal/catch_textflow.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\catch_test_spec.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\catch_test_spec.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/catch_test_spec.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_test_spec_parser.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\internal\\catch_test_spec_parser.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/internal/catch_test_spec_parser.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\catch_timer.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\catch_timer.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/catch_timer.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\catch_tostring.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\catch_tostring.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/catch_tostring.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\catch_totals.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\catch_totals.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/catch_totals.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\catch_version.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\catch_version.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/catch_version.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_wildcard_pattern.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\internal\\catch_wildcard_pattern.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/internal/catch_wildcard_pattern.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_xmlwriter.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\internal\\catch_xmlwriter.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/internal/catch_xmlwriter.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\benchmark\\internal\\catch_benchmark_combined_tu.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\benchmark\\internal\\catch_benchmark_combined_tu.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/benchmark/internal/catch_benchmark_combined_tu.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2.dir\\catch2\\benchmark\\detail\\catch_stats.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\benchmark\\detail\\catch_stats.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/benchmark/detail/catch_stats.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Catch2/src",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Catch2WithMain.dir/includes_CXX.rsp -O3 -DNDEBUG -ffile-prefix-map=D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2=. -std=c++17 -o CMakeFiles\\Catch2WithMain.dir\\catch2\\internal\\catch_main.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Catch2\\src\\catch2\\internal\\catch_main.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Catch2/src/catch2/internal/catch_main.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/tests",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/CommandLineArguments_unit_tests.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -o CMakeFiles\\CommandLineArguments_unit_tests.dir\\main.cc.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\tests\\main.cc",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/tests/main.cc"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/benchmarks",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/CommandLineArguments_benchmarks.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -o CMakeFiles\\CommandLineArguments_benchmarks.dir\\main.cc.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\benchmarks\\main.cc",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/benchmarks/main.cc"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Celero",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DCELERO_EXPORTS -Dcelero_EXPORTS @CMakeFiles/celero.dir/includes_CXX.rsp -O3 -DNDEBUG -Wall -std=c++14 -o CMakeFiles\\celero.dir\\src\\Archive.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Celero\\src\\Archive.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Celero/src/Archive.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Celero",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DCELERO_EXPORTS -Dcelero_EXPORTS @CMakeFiles/celero.dir/includes_CXX.rsp -O3 -DNDEBUG -Wall -std=c++14 -o CMakeFiles\\celero.dir\\src\\Benchmark.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Celero\\src\\Benchmark.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Celero/src/Benchmark.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Celero",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DCELERO_EXPORTS -Dcelero_EXPORTS @CMakeFiles/celero.dir/includes_CXX.rsp -O3 -DNDEBUG -Wall -std=c++14 -o CMakeFiles\\celero.dir\\src\\Callbacks.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Celero\\src\\Callbacks.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Celero/src/Callbacks.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Celero",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DCELERO_EXPORTS -Dcelero_EXPORTS @CMakeFiles/celero.dir/includes_CXX.rsp -O3 -DNDEBUG -Wall -std=c++14 -o CMakeFiles\\celero.dir\\src\\Celero.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Celero\\src\\Celero.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Celero/src/Celero.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Celero",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DCELERO_EXPORTS -Dcelero_EXPORTS @CMakeFiles/celero.dir/includes_CXX.rsp -O3 -DNDEBUG -Wall -std=c++14 -o CMakeFiles\\celero.dir\\src\\Console.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Celero\\src\\Console.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Celero/src/Console.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Celero",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DCELERO_EXPORTS -Dcelero_EXPORTS @CMakeFiles/celero.dir/includes_CXX.rsp -O3 -DNDEBUG -Wall -std=c++14 -o CMakeFiles\\celero.dir\\src\\Distribution.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Celero\\src\\Distribution.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Celero/src/Distribution.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Celero",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DCELERO_EXPORTS -Dcelero_EXPORTS @CMakeFiles/celero.dir/includes_CXX.rsp -O3 -DNDEBUG -Wall -std=c++14 -o CMakeFiles\\celero.dir\\src\\Exceptions.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Celero\\src\\Exceptions.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Celero/src/Exceptions.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Celero",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DCELERO_EXPORTS -Dcelero_EXPORTS @CMakeFiles/celero.dir/includes_CXX.rsp -O3 -DNDEBUG -Wall -std=c++14 -o CMakeFiles\\celero.dir\\src\\Executor.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Celero\\src\\Executor.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Celero/src/Executor.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Celero",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DCELERO_EXPORTS -Dcelero_EXPORTS @CMakeFiles/celero.dir/includes_CXX.rsp -O3 -DNDEBUG -Wall -std=c++14 -o CMakeFiles\\celero.dir\\src\\JUnit.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Celero\\src\\JUnit.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Celero/src/JUnit.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Celero",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DCELERO_EXPORTS -Dcelero_EXPORTS @CMakeFiles/celero.dir/includes_CXX.rsp -O3 -DNDEBUG -Wall -std=c++14 -o CMakeFiles\\celero.dir\\src\\Memory.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Celero\\src\\Memory.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Celero/src/Memory.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Celero",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DCELERO_EXPORTS -Dcelero_EXPORTS @CMakeFiles/celero.dir/includes_CXX.rsp -O3 -DNDEBUG -Wall -std=c++14 -o CMakeFiles\\celero.dir\\src\\Print.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Celero\\src\\Print.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Celero/src/Print.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Celero",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DCELERO_EXPORTS -Dcelero_EXPORTS @CMakeFiles/celero.dir/includes_CXX.rsp -O3 -DNDEBUG -Wall -std=c++14 -o CMakeFiles\\celero.dir\\src\\Experiment.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Celero\\src\\Experiment.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Celero/src/Experiment.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Celero",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DCELERO_EXPORTS -Dcelero_EXPORTS @CMakeFiles/celero.dir/includes_CXX.rsp -O3 -DNDEBUG -Wall -std=c++14 -o CMakeFiles\\celero.dir\\src\\ExperimentResult.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Celero\\src\\ExperimentResult.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Celero/src/ExperimentResult.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Celero",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DCELERO_EXPORTS -Dcelero_EXPORTS @CMakeFiles/celero.dir/includes_CXX.rsp -O3 -DNDEBUG -Wall -std=c++14 -o CMakeFiles\\celero.dir\\src\\ResultTable.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Celero\\src\\ResultTable.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Celero/src/ResultTable.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Celero",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DCELERO_EXPORTS -Dcelero_EXPORTS @CMakeFiles/celero.dir/includes_CXX.rsp -O3 -DNDEBUG -Wall -std=c++14 -o CMakeFiles\\celero.dir\\src\\TestVector.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Celero\\src\\TestVector.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Celero/src/TestVector.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Celero",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DCELERO_EXPORTS -Dcelero_EXPORTS @CMakeFiles/celero.dir/includes_CXX.rsp -O3 -DNDEBUG -Wall -std=c++14 -o CMakeFiles\\celero.dir\\src\\TestFixture.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Celero\\src\\TestFixture.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Celero/src/TestFixture.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Celero",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DCELERO_EXPORTS -Dcelero_EXPORTS @CMakeFiles/celero.dir/includes_CXX.rsp -O3 -DNDEBUG -Wall -std=c++14 -o CMakeFiles\\celero.dir\\src\\ThreadTestFixture.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Celero\\src\\ThreadTestFixture.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Celero/src/ThreadTestFixture.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Celero",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DCELERO_EXPORTS -Dcelero_EXPORTS @CMakeFiles/celero.dir/includes_CXX.rsp -O3 -DNDEBUG -Wall -std=c++14 -o CMakeFiles\\celero.dir\\src\\Timer.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Celero\\src\\Timer.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Celero/src/Timer.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Celero",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DCELERO_EXPORTS -Dcelero_EXPORTS @CMakeFiles/celero.dir/includes_CXX.rsp -O3 -DNDEBUG -Wall -std=c++14 -o CMakeFiles\\celero.dir\\src\\UserDefinedMeasurementCollector.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Celero\\src\\UserDefinedMeasurementCollector.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Celero/src/UserDefinedMeasurementCollector.cpp"
+},
+{
+  "directory": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/build/external/Celero",
+  "command": "c:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DCELERO_EXPORTS -Dcelero_EXPORTS @CMakeFiles/celero.dir/includes_CXX.rsp -O3 -DNDEBUG -Wall -std=c++14 -o CMakeFiles\\celero.dir\\src\\Utilities.cpp.obj -c D:\\Documents\\Ferenc\\C_CPP\\Playground\\CMake\\13_CommandLineArguments\\external\\Celero\\src\\Utilities.cpp",
+  "file": "D:/Documents/Ferenc/C_CPP/Playground/CMake/13_CommandLineArguments/external/Celero/src/Utilities.cpp"
+}
+]
